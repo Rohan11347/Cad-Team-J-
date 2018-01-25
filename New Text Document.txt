@@ -1,0 +1,8 @@
+git clone
+git checkout -b "CAD1"
+git checkout CAD1
+git add .
+git status 
+git commmit -m "what you did"
+git push origin HEAD
+
